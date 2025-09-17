@@ -1,3 +1,6 @@
+# To hopefully prevent conflicts between stable version and build version
+.uproject
+
 # Visual Studio 2015 user specific files
 .vs/
 
